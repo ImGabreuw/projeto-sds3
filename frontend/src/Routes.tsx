@@ -10,7 +10,7 @@ function Routes() {
           <Home />
         </Route>
 
-        <Route path="/" exact>
+        <Route path="/dashboard">
           <Dashboard />
         </Route>
       </Switch>
